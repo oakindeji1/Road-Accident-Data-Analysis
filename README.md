@@ -15,5 +15,4 @@
 
     ### Distribution of total casualties by Road Surface
 
-    Relation between Casualties by Area/ Location & by Day/Night
-<img width="2395" height="927" alt="image" src="https://github.com/user-attachments/assets/fda98454-4195-4ffd-84f1-40e320af74a4" />
+    
