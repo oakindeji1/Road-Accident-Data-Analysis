@@ -81,7 +81,7 @@
 🛣️ Casualties by Road Type & Condition
 #### Highest by Road Type: Single Carriageway – 148,543
 #### Highest by Surface Condition: Dry Roads – 135,403
-#### Despite favorable surface conditions, dry roads saw the most casualties — possibly due to higher traffic volume and speed.
+#### Despite favorable surface conditions, dry roads saw the most casualties - possibly due to higher traffic volume and speed.
 
 📍 Casualties by Location & Time
 #### Urban areas: Higher than rural
