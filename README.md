@@ -64,6 +64,7 @@
 ### Insight
 
 🚦 Casualty Overview Dashboard Summary
+
 	1)	Total Casualties: 197,644
 	2)	Fatal: 2,486 (1.3%)
 	3)	Serious: 25,685 (13%)
